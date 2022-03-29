@@ -1,0 +1,7 @@
+﻿  DiscreteLab1.cpp
+C:\Users\alang\source\repos\DiscreteLab1\DiscreteLab1\DiscreteLab1.cpp(18,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\alang\source\repos\DiscreteLab1\DiscreteLab1\DiscreteLab1.cpp(24,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\alang\source\repos\DiscreteLab1\DiscreteLab1\DiscreteLab1.cpp(32,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\alang\source\repos\DiscreteLab1\DiscreteLab1\DiscreteLab1.cpp(40,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\alang\source\repos\DiscreteLab1\DiscreteLab1\DiscreteLab1.cpp(56,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  DiscreteLab1.vcxproj -> C:\Users\alang\source\repos\DiscreteLab1\x64\Debug\DiscreteLab1.exe
